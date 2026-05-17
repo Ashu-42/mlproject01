@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e . # comment this whenever adding new items, remove the comment when you want to create the whole package finally
